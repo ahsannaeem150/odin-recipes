@@ -1,0 +1,1 @@
+1. Learned about HTML from The Odin Project and will test out my learnings in this project.
