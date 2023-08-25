@@ -1,0 +1,40 @@
+#title {
+    margin-top: 20px;
+    text-align: center;
+    border: 1px;
+    background-color: rgb(59, 83, 83);
+    border-radius: 5px;
+    box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
+    margin-left: 10px;
+    margin-right: 10px;
+    color: aliceblue;
+}
+img {
+    width: 600px;
+    border-radius: 5%;
+}
+.image {
+    text-align: center;
+    margin-top: 10px;
+}
+.link{
+    color: black;
+    font-size: 28px;
+    text-decoration: none;
+    display: inline-block;
+    margin-top: 7px;
+}
+.link:hover{
+    color: red;
+}
+.linkbox {
+    text-align: center;
+}
+.back{
+    background-color: beige;
+    border-radius: 5px;
+    box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(22, 6, 6, 0.23);
+}
+html {
+    background-color : rgb(177, 174, 117);
+}
